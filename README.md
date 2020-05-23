@@ -1,2 +1,2 @@
-# Stock_Tracker
-Web app that scrapes yahoo news and other sources to provide me with stock information
+# Django_Template
+Setting up a django template takes way too long, hopefully this will help
